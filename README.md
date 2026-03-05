@@ -2,7 +2,6 @@
 
 > *A product person who got tired of being a ticket warriror and started writing actual code. Results: mixed. Commitment: unshakeable.*
 
----
 
 ## What I Build/Butcher
 
@@ -13,7 +12,6 @@
 - **Decision-support notebooks** — Python + Claude API workflows that turn ambiguous strategic questions into structured analysis, because "let's take this offline" is not a deliverable
 - **Lean AI prototypes** — fast, scrappy proof-of-concepts built to answer the question "should we actually build this?" before anyone writes a PRD
 
----
 
 ## About Me
 
@@ -21,7 +19,6 @@
 - Firmly believe that most agents need better reasoning architecture, not more vibe
 - Human judgement FTW
 
----
 
 ## Currently Obsessing Over
 
