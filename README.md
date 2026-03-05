@@ -26,6 +26,5 @@ Research automation frameworks and agentic workflows for high-signal, low-noise 
 
 If you're building something where the output actually matters outside a Notion doc — conservation tech, sustainability, anything with a north star metric that is literally a star — let's talk.
 
----
 
 *Somewhere, a JIRA ticket is going ungroomed. It's not my problem anymore.*
